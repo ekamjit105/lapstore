@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Xanh+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+
+.head{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 3vw;
+	background-color: #40004C ;
+	color: white;
+	padding: 1%;
+}
+
+.logoimg{
+	width: 30vw;
+	padding-top:7%; 
+	padding-left: 10%;
+	padding-right: 10%;
+
+}
+
+.whitesec
+{
+	background-color: white;
+	border-radius: 20px 20px;
+	padding: 2%;
+}
+
+.heads{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2vw;
+	background-color: #40004C ;
+	color: white;
+	padding: 2%;
+}
+.discount{
+	color: red;
+}
+.mrp{
+	text-decoration: line-through;
+}
+
+.mhead{
+	background-color: white;
+	border-radius: 20px 20px;
+	padding: 1%;
+	font-family: 'Dosis', sans-serif;
+}
+
+
+.viewbtn{
+	color: white;
+	background-color: #42C82C ;
+	 transition-duration: 0.4s;
+}
+
+.viewbtn:hover{
+	color: #42C82C;
+	background-color: white ;
+}

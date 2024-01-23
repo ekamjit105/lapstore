@@ -1,0 +1,36 @@
+
+input{
+width: 40%;
+border: 0.5px solid black;
+border-top: none;
+border-left: none;
+border-right: none;
+}
+
+.formdiv{
+	border: 2px;
+	border-color: black;
+	border-color: black; 
+	padding: 4vh;
+	
+	border: 0.02vh solid black;
+	border-radius: 20px;
+}
+
+.logo{
+	margin-top: 5%;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 270%;
+	/*transform: rotate(-5deg);
+*/
+}
+
+#button{
+	width: 20%;
+	border-radius: 10px;
+	border: 0;
+}
+
+.head{
+
+}

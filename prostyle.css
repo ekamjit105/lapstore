@@ -1,0 +1,64 @@
+
+.carimage{
+	height: 100%;
+}
+
+.dropdown:hover>.dropdown-menu
+{
+	display: block;
+}
+
+.toplinks{
+	/*padding: 1vh;*/
+}
+.toplinks ul{
+
+	text-align: right;
+}
+.toplinks a{
+color: #F7F7F7;
+padding: 1vw;
+}
+
+.toplinks a:hover{
+	/*color: #CBBCA7;*/
+	color: #9DD864;
+	text-decoration: none;
+}
+
+#horizontal-list li 
+{	
+	display: inline;
+}
+
+
+body{
+ /* height: 100%;*/
+  margin: 0;
+  padding: 0;
+  /*font-family: Arial, Helvetica, sans-serif;
+  */
+  background-color:#FCEDF5 ;
+}
+/*
+body{
+
+}*/
+
+.head{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.title
+{
+	background: black;
+	color: white;
+	font-size: 3vh;
+	letter-spacing: 1px;
+}
+
+.navbar li{
+	padding-left: 0.5vw;
+	font-size: 19px;
+	font-family: Walbaum Display;
+}
